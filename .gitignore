@@ -1,0 +1,16 @@
+# Secrets — ne JAMAIS commiter
+.env
+.env.*
+!.env.example
+
+node_modules/
+out/
+*.log
+.DS_Store
+
+# Médias lourds (rushes, mezzanines, exports)
+public/**/*.mp4
+public/**/*.mov
+public/**/*.wav
+public/**/*.mp3
+public/**/*.webm

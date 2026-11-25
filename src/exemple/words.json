@@ -1,0 +1,75 @@
+{
+ "text": "Bienvenue dans ton STUDIO vidéo, piloté par moi. On monte, on rend, c'est TOUT.",
+ "words": [
+  {
+   "word": "Bienvenue",
+   "start": 3.087,
+   "end": 3.612
+  },
+  {
+   "word": "dans",
+   "start": 3.652,
+   "end": 3.952
+  },
+  {
+   "word": "ton",
+   "start": 3.977,
+   "end": 4.232
+  },
+  {
+   "word": "STUDIO",
+   "start": 4.243,
+   "end": 4.633
+  },
+  {
+   "word": "vidéo,",
+   "start": 4.914,
+   "end": 5.259
+  },
+  {
+   "word": "piloté",
+   "start": 5.664,
+   "end": 6.054
+  },
+  {
+   "word": "par",
+   "start": 6.019,
+   "end": 6.274
+  },
+  {
+   "word": "moi.",
+   "start": 6.501,
+   "end": 6.756
+  },
+  {
+   "word": "On",
+   "start": 7.002,
+   "end": 7.212
+  },
+  {
+   "word": "monte,",
+   "start": 7.265,
+   "end": 7.61
+  },
+  {
+   "word": "on",
+   "start": 8.05,
+   "end": 8.26
+  },
+  {
+   "word": "rend,",
+   "start": 8.36,
+   "end": 8.66
+  },
+  {
+   "word": "c'est",
+   "start": 9.111,
+   "end": 9.456
+  },
+  {
+   "word": "TOUT.",
+   "start": 9.469,
+   "end": 9.769
+  }
+ ]
+}
